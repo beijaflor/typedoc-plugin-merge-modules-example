@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "skipLibCheck": true,
+    "declaration": false,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": ["esnext", "esnext.asynciterable", "dom", "dom.iterable"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "typeRoots": ["./@types/", "../../node_modules/@types/"],
+    "sourceMap": true,
+    "target": "es5",
+    "resolveJsonModule": true
+  },
+  "exclude": ["node_modules", "vendor", "public"]
+}
