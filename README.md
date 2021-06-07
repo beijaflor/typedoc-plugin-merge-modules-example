@@ -1,4 +1,4 @@
-# exsample for typedoc-plugin-merge-modules
+# example for typedoc-plugin-merge-modules
 
 ```
 src
