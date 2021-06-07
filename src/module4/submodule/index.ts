@@ -1,5 +1,5 @@
 /**
- * module with re-export index with multiple files with single function export
+ * submodule of modele 4 ( re-export index )
  * @packageDocumentation
  * @module module4/submodule
  */

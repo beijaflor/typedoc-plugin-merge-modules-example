@@ -1,5 +1,5 @@
 /**
- * module with re-export index with multiple files with single function export
+ * module with submodule in subdirectory
  * @packageDocumentation
  * @module module4
  */

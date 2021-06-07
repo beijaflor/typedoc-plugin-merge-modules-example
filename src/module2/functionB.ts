@@ -1,3 +1,3 @@
-export function module4functionB(): void {
+export function module2functionB(): void {
   console.log("do nothing");
 }
