@@ -1,3 +1,6 @@
-export function module4functionB(): void {
+/**
+ * @module module2
+ */
+export function module2functionB(): void {
   console.log("do nothing");
 }
