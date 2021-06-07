@@ -1,8 +1,12 @@
 /**
- * Do Nothing
+ * module with single module file with multiple export
  * @packageDocumentation
- * @module main
+ * @module module3
  */
-export default function main(): void {
+export function module3FunctionA(): void {
+  console.log("do nothing");
+}
+
+export function module3FunctionB(): void {
   console.log("do nothing");
 }
